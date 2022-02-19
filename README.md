@@ -26,7 +26,7 @@ These scripts are created to ease the so many steps to build [PowerMonkey](https
 2. Visual Studio 2022, with C++ workload installed.
 
 ### Step 1
-Use elevated privilege command prompt (Use `x64 Native Tools Command Prompt for VS 2022` to get builds working),
+Use elevated command prompt (Use `x64 Native Tools Command Prompt for VS 2022` to get builds working),
 ```
 git clone https://github.com/awyl/Build-PowerMonkey.git
 ```
