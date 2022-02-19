@@ -15,7 +15,7 @@ These scripts are created to ease the so many steps to build [PowerMonkey](https
 
 ## Software Used
 - https://github.com/tianocore/edk2 stable202108
-- https://github.com/psyq321/PowerMonkey 0.21
+- https://github.com/psyq321/PowerMonkey V0.2.1
 - Python 3.10.0
 - NASM 2.15.05
 
